@@ -21,7 +21,7 @@
                 <!-- Mobile Button -->
                 <button class="md:hidden" @click="menuOpen = !menuOpen">☰</button>
 
-                <a href="https://newpehnava.in" target="_blank"
+                <a href="/"
                     class="hidden md:block bg-white text-[#97094c] px-5 py-2 rounded-full font-semibold hover:scale-105 transition">
                     Shop Now
                 </a>
@@ -57,8 +57,7 @@
                         <a href="#products" class="bg-white text-[#97094c] px-6 py-3 rounded-xl font-semibold">
                             Explore Collection
                         </a>
-                        <a href="https://newpehnava.in" target="_blank"
-                            class="border border-white px-6 py-3 rounded-xl">
+                        <a href="/" class="border border-white px-6 py-3 rounded-xl">
                             Visit Store
                         </a>
                     </div>
