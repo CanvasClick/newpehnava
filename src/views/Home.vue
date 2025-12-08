@@ -244,7 +244,7 @@
 
                     <p class="mb-4 text-gray-700">
                         📍 Surighat, Mungeli (C.G.) – 495334
-                        <br />📱 WhatsApp: 70890 91994
+                        <br />📱 WhatsApp: 62618 17432
                         <br />📧 Email: newpehnava@gmail.com
                     </p>
 
@@ -270,7 +270,7 @@
         </footer>
 
         <!-- ✅ Minimal WhatsApp Floating Button (SVG Only) -->
-        <a href="https://wa.me/917089091994" target="_blank" aria-label="Chat on WhatsApp"
+        <a href="https://wa.me/916261817432" target="_blank" aria-label="Chat on WhatsApp"
             class="fixed bottom-6 right-3 bg-green-500 w-12 h-12 flex items-center justify-center rounded-full shadow-xl hover:scale-110 transition">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" class="w-6 h-6 fill-white">
                 <path
